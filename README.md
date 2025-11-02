@@ -4,11 +4,11 @@ Learning data structures in python
 To Do list-
 
 Beginner:
-  Queue
-  stack
+  Queue,
+  stack(I think done),
   Linked list
 
 NOT Beginner:
-  Heaps
-  Trees
+  Heaps,
+  Trees,
   Tries
